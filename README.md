@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Luna Sanchez
 
-🎓 Estudiante de **Ingeniería Química**  
-
 Me apasiona el cruce entre la química y la tecnología: modelado de procesos, análisis de datos y soluciones basadas en inteligencia artificial. Siempre busco aprender, experimentar y resolver problemas reales desde la ciencia y la programación.
 
 ---
